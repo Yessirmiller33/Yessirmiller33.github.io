@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> Your ANme - Managing multiple systems</title>
+    <title> Your ANme - Managing multiple systems </title>
 </head>
 <body>
 
