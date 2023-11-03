@@ -1,4 +1,3 @@
-git clone https://github.com/Yessirmiller33/ManagingMultipleSystems.git
 <!DOCTYPE html>
 <html>
 <head>
