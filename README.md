@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Your Name - Final Project</title>
+    <title> Your ANme - Managing multiple systems</title>
 </head>
 <body>
 
 <!-- About Me Section -->
 <section id="about">
     <h2>About Me</h2>
-    <p>Write a brief introduction about yourself here.</p>
+    <p>I learned to count in school.</p>
 </section>
 
 <!-- Pictures Section -->
 <section id="pictures">
     <h2>Pictures</h2>
-    <!-- Add your pictures here -->
+    <!-- ya -->
     <img src="path_to_your_image" alt="Description of your image">
     <!-- Add more images as needed -->
 </section>
